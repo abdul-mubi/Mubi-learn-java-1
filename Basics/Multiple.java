@@ -1,3 +1,4 @@
+package Basics;
 public class Multiple {
     public static void main (String a[]) {
         float num1 = 8.5f;

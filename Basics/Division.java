@@ -1,3 +1,4 @@
+package Basics;
 public class Division {
 public static void main(String a[]){
      float c = 672;

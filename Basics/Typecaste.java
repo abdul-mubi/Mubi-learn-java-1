@@ -1,3 +1,4 @@
+package Basics;
 public class Typecaste {
     public static void main(String a[]) {
     double D= 15.123456789101112123;

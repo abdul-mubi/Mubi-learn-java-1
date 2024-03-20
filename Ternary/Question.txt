@@ -1,0 +1,10 @@
+What is the ternary operator in Java and what purpose does it serve?
+What is the syntax of the ternary operator in Java?
+How does the ternary operator differ from an if-else statement?
+Can you provide an example of using the ternary operator to assign a value based on a condition?
+Is it possible to nest ternary operators in Java? If so, can you give an example?
+When should you use the ternary operator instead of an if-else statement, and vice versa?
+What are some advantages and disadvantages of using the ternary operator?
+How does the ternary operator handle type conversion and type promotion in Java?
+Can you use the ternary operator to execute statements instead of just assigning values?
+Are there any limitations or constraints when using the ternary operator in Java?

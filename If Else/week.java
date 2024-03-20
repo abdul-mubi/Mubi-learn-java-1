@@ -1,6 +1,6 @@
 public class week {
     public static void main(String arg[]) {
-        String day = "sunday";
+        String day = "wednesday";
         if (day == "Monday") {
             System.out.println("first day of the week");
         } else if (day == "tuesday") {

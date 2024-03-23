@@ -1,0 +1,5 @@
+JVM creats OBJECTS in java 
+first will create a class file , that file will compiled to get byte code , 
+that byte code goes to JVM nad thats how OBJECT is created.
+every object will have 2 this;- properties and methods
+object creation syntax : classname(imagine as a variable) reffrence variable followd by

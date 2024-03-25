@@ -1,4 +1,4 @@
-package Demo;
+package Method;
 
 class Availability {
     Boolean availability;

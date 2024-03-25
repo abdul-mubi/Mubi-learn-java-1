@@ -1,4 +1,4 @@
-package Demo;
+package Method;
 
 public class Sum {
     public static void main(String arg[]) {

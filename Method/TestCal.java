@@ -1,4 +1,4 @@
-package Demo;
+package Method;
 
 public class TestCal {
     public static void main(String arg[]) {

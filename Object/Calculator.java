@@ -1,12 +1,14 @@
-package Method;
+package Object;
 
 public class Calculator {
     public static void main(String arg[]) {
+
         int result;
         result = calsoperation(3, 4, "sub");
         System.out.println(result);
 
     }
+
     public static int calsoperation(int x, int y, String operation) {
         int result;
         if (operation == "add") {
